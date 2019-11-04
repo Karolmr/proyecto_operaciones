@@ -5,6 +5,8 @@
  */
 package operaciones;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Karol
@@ -16,6 +18,7 @@ public class Operaciones {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+    JOptionPane.showMessageDialog(null,"Hola Mundo");
     }
     
 }
