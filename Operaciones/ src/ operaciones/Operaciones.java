@@ -19,8 +19,8 @@ public class Operaciones {
     public static void main(String[] args) {
         // TODO code application logic here
     JOptionPane.showMessageDialog(null,"Hola Mundo");
-    JOptionPane.showMessageDialog(null,"Hola Mundo");
-    JOptionPane.showMessageDialog(null,"Hola Mundo");
-    JOptionPane.showMessageDialog(null,"Hola Mundo");
+    JOptionPane.showMessageDialog(null,"Feliz dia");
+    JOptionPane.showMessageDialog(null,"Gracias");
+    JOptionPane.showMessageDialog(null,"Buenos dias");
 }
 }
