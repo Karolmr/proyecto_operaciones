@@ -22,5 +22,6 @@ public class Operaciones {
     JOptionPane.showMessageDialog(null,"Feliz dia");
     JOptionPane.showMessageDialog(null,"Gracias");
     JOptionPane.showMessageDialog(null,"Buenos dias");
+        KAROOOOO
 }
 }
